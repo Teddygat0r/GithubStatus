@@ -1,0 +1,19 @@
+.left {
+    margin-right: 3px;
+}
+.right {
+    margin-left: 3px;
+    
+}
+
+.work{
+    background-color: rgba(102, 204, 153, 1);
+}
+
+.broke{
+    background-color: rgba(250, 50, 100, 1);
+}
+
+#footer{
+    background-color: rgba(0,0,0,0.05);
+}
